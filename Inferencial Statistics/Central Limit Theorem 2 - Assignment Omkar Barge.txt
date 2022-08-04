@@ -1,0 +1,20 @@
+1.The average commute time for a testbook employee to and from the office is atleast 60 minutes.What will be the null and alternative hypotheses in this case if the average time is represented by μ?
+Answer:  H₀: μ ≥ 60 minutes and H₁: μ < 60 minutes
+
+
+2.Tata claims that each of its tyres can travel more than 8000 miles on average before they need any replacement.Assuming that the average travel distance is given by μ,what would be the null and the alternate hypothesis in this case?
+Answer: H₀: μ  ≥ 8000 miles and H₁: μ < 8000 miles
+
+3.A manufacturer claims that the average life of its product is 36 months.An auditor selects a sample of 49 units of the product,and calculates the average life to be 34.5months.
+The population standard deviation is 4 months.Test the manufacturer’s claim at 3% significance level using the critical value method
+.Answer: Reject the null hypothesis
+
+
+4.According to a study,the daily average time spent by a user on a social media website is 50 minutes.To test the claim of this study,Ramesh,are searcher,takes a sample of 25 website users and finds out that the mean time spent by the
+sample users is 60 minutes and the sample standard deviation is 30 minutes.Based on this information, the null and the alternative hypotheses will be:Ho = The average time spent by the users is 50 minutes
+H1 = The average time spent by the users is not 50 minutesUse a 5% significance level to test this hypothesis
+
+Answer: Fail to reject the null hypothesis
+	Here, the population standard deviation is not known and the sample size is less than 30;so, we can use the t-test.
+	Therefore, the t-test statistic (t) = (x – μ)/(s/√(n)) = (60 - 50)/(30/√25) = 1.66.The sample size is 25. So, the degree of freedom = 25 - 1 = 24.
+	This is a two-tailed t-test with a significance level of 5%;so,the critical t-value=t0.05,24=2.064 (using the t-table).Since the observed t-value is smaller than the critical value,Ramesh fails to reject the null hypothesis.
