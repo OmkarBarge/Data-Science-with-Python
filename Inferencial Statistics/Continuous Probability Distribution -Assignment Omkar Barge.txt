@@ -1,0 +1,41 @@
+1.In a uniform PDF ,all the possible values have the same probability density.The figure below shows such a uniform PDF, where the possible values are 0 to 10.For this graph, what is the value of the probability density from 
+X = 0 to X = 10?
+Answer : 	0.1 Since al lpossible values are between 0 and 10,the area under the curve between 0 and 10 is equal to 1.This are a is the area of a rectangle with 	length 10 and unknown height h.Hence,10*h=1,which gives us h=0.1.So,the value of the PDF for all values between 0 and 10 is 0.1
+
+
+
+
+
+
+2.For the uniform PDF from the previous question,find the cumulative probability for X = 0.5.
+Answer:  0.05 The cumulative probability for X=0.5 is equal to the area under the curve between X = 0, the lowest possible value, and X = 0.5.
+	This area = 0.1 * 0.5 = 0.05
+
+
+
+
+
+3.What is the probability of a normally distributed random variable lying within 1.65 standard deviations of the mean? [You can use the Z table]
+Answer: 	0.9090%.
+	You have to find the probability of the variable lying between μ-1.65 σ and μ+1.65σ 
+	.i.e.P(μ-1.65σ<X<μ+1.65σ).
+	In terms of Z,this becomes P(-1.65<Z< +1.65). This would be equal to P(1.65) - P(-1.65) = 0.95 - 0.05 = 0.9
+
+
+
+
+4.Let’s say you work as ananalyst at a pharma company,which manufactures an antipyretic drug(tabletform) with paracetamol as the active ingredient.The amount of paracetamol specified by the drug regulatory authorities is 500mg with a permissible error of10%.
+Anything below 450mg would be a quality issue for your company,as the drug will be ineffective,while any amount above 550mg would lead to a serious regulatory issue.
+
+				1. The regulatory authority selects a random tablet from Batch Z2.Based on previous knowledge,you know that Batch Z2 has a mean paracetamol level of 510mg,and its standard deviation is 20mg.
+		    What is the probability that the tablet that has been selected by the authority has a paracetamol level below 550 mg?
+
+		Answer: 			98% Let’s define X as the amount of paracetamol in the selected tablet.Now,X is a normally distributed random variable,with mean μ=510 mg and standard deviation σ=20mg.
+			Now,you have to find the probability of X being less than 550,i.e.P(X<550).Converting this to Z,you get P(X<550)= P(Z<{550-510}/20) = P(Z<2) = 0.977, or 97.7
+
+
+		2.Now, ecompany’s QC(QualityControl) department comes and selects a tablet at random from Batch Z2.It is interested in finding if the paracetamol level is above 450mg or not.
+		What is the probability that the tablet selected by QC has a paracetamol level above 450 mg?
+
+		Answer: 			99.87% Let’s define X as the amount of paracetamol in the selected tablet.Now,X is a normally distributed random variable,with meanμ=510 mg and standard deviation σ=20mg
+			Now,you have to find the probability of X being more than 450,i.e.P(X>450).Converting this to Z,you getP(X>450)=P(Z>{450-510}/20)=P(Z>-3)=1-P(Z<-3)=0.9987,or99.87%
