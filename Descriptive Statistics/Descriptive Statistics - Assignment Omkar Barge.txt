@@ -1,0 +1,71 @@
+1. Which one has a higher mean?
+	X:  3, 5, 1, 7, 9
+	Y: 2, 4, 6, 8, 10
+	Z: 1,4, 5, 8, 12
+		a)X
+		b)Y
+		c)Z
+		d)Both Y and Z
+Solution: 	d) Both Y and Z
+
+
+2. The Median for the following data set is
+	X: 12, 14, 16, 23, 22, 10
+		a)15
+		b)14
+		c)16
+		d)Both c and b
+Solution: a) Mean
+
+
+3. Abraham had a sample of 123 pieces of data. He added up all of the pieces of data and then divided them by 123. What measure of center is he working on?
+	a)Mean
+	b)Median
+	c)Mode
+	d)Variance
+Solution: a) Mean
+
+
+4. Player 1 has a coefficient of variation of 10% in its scores while Player 2 has a standard deviation of  6 units and an average score of 120 in a match. Which player is more consistent?
+	a) Player 1
+	b) Player 2
+	c) Data insufficient
+	d) Both players have the same consistency
+Solution: b) Player 2
+
+
+5. X has a standard deviation of 10 units and a meanof 1000. The coefficient of Variation of X is
+	a) 100
+	b) 10
+	c) 1000
+	d) 1%
+Solution: d) 1%
+
+
+6. If covariance between X and Y variables is 10 andthe variances of X and Y resp. 16 and 9 ,Find the coefficient of correlation.
+	a)0.733
+	b)0.066
+	c)0.833
+	d)None of these.
+Solution:  c) 0.833
+
+
+
+7. Which one has a higher variability (as per Range)?
+	X:  3, 5, 1, 7, 9
+	Y: 2, 4, 6, 8, 10
+	Z: 1,4, 5, 8, 12
+		a) X
+		b) Y
+		c) Z
+		d) Both X and Y
+Solution: c) Z
+
+
+
+8.Abraham had played 8 matches last summer. His scoreswere: 100, 120, 60, 176, 150, 110,130, 143.  What’s the range of Abraham's scores
+	a) 176
+	b) 60
+	c) 116
+	e) 150
+Solution: c) 116
