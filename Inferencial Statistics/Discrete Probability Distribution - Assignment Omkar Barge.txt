@@ -1,0 +1,24 @@
+1.For a Binomial distribution,the number of trials(n) is 20,and the probability of success is 0.7.What’s the variability of the distribution?
+Explanation:	The measure for variability is VarianceThe variance of the binomial distribution is Var(X)=n*p*q; 
+		where p is the probability of success and q is given as 1-p
+		So, as per question; n=20, p=0.7  q = 1-0.7 = 0.3. 
+		Variance will be 20*0.3*0.7= 4.2
+
+2.Naina receivese mails that consist of 18% spam.The spam filter is 93% reliable i.e 93 % of the mails it marks as spam are actually spam and 93% of spam mails are correctly labeled as spam.
+If a mail is marked spam by her spam filter,determine the probability that it is really spam.
+Explanation:	18% of emails are spam and 82% email are not spam.
+		Now,18% of mail marked as spam is spam and 82% mail marked as spam are not spam.By Bayes theorem the probability that a mail marked spam is really a 
+		spam=(Probability of being spam and being detected as spam)/(Probability of being detected as spam)
+			=(0.18*0.82)/(0.18*0.82)+(0.18*0.82)
+			=0.5or 50%
+
+
+3.Find the mean and variance of the following probability distribution and hence find its standard deviation.
+	Х   	-20	-40	60	150	 160
+	P(X = x)	1/4	7/20	13/20	1/10	9/20
+
+Explanation:	 We know that 
+		μ=EX= i=1nxipi
+		⇒ E(X) = -20*1/4 -40*7/20+60*13/20+150*1/10+160*9/20 = 107
+		Now, E(X2) = (-20)2*1/4 +(-40)2*7/20+(60)2*13/20+(150)2*1/10+(160)2*9/20= 16770
+		Thus, VarX=EX2-EX2=16770-1072=5321And  Standard Deviation= VarX=5321=72.94
