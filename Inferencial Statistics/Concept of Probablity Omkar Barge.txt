@@ -1,0 +1,80 @@
+Assignment on Concepts of Probablity.
+
+1.Tickets numbered 1 to 20 are mixed up and then a ticket is drawn at random.What is the probability that the ticket drawn has a number which is a multiple of 3 or 5?
+Answer: 	S = {1, 2, 3, 4, ...., 19, 20}
+	E = event of getting multiple of 3 or 5 = 9
+	P(E) = n(E)/n(S) = 9/20
+
+2. In 30 balls, a batsman hits the boundaries 6 times.What will be the probability that he did nothit the boundaries?
+Answer:	Total number of balls = 30
+	No. of boundaries the batsman hit = 6	
+	No. of balls without boundaries = 30 - 6 = 24\
+	So, the probability when there is no boundary = 24/30 = 4/5
+
+3.For a random experiment, the probability of samplespace is
+Answer:	P(X)  = n(X) ⁄ n(S)	
+	sample space is S={1,2,3,4,5,6}
+	Number of favorable outcomes = 6
+	P(S)= 6/6 = 1
+
+4. Based on the contingency table below, the Jointprobability for A and B is
+Answer:  P(X)  = n(X) ⁄ n(S) = P (A and B ) = 4/30 = 2/15
+
+5. What would be the probability of an event ‘G’ ifH denotes its complement, according to theaxioms of probability?
+Answer:	According to the given statement P(G) + P(H) = 1
+	 P(G) = 1- P(H)
+
+6. If three coins are tossed simultaneously, whatis the probability of getting two heads together?
+Answer:	The sample space is = {TTT, TTH, THT, HTT, THH, HTH, HHT, HHH}
+	Let E is the event of getting two heads together
+	Then E = {THH, HHT, HHH}
+	P(E) = n(E) / n(S) = 3/8
+
+7.The probability of winning the first prize in alottery for a girl is 8/100. If the total of 6000 ticketsare sold, then how many tickets the girl purchased?
+Answer:	Probability of winning the first prize of the girl = 8/100
+	Total number of tickets sold = 6000
+	No. of tickets girl purchased = 8/100 * 6000 = 480
+
+8.There are 3 blue socks, 5 brown socks, and 4 whitesocks in a drawer. If two socks are pickedup randomly, what is the probability that the selected socks are of the same color?
+Answer:		Total number of socks = 3 + 5 + 4 = 12 socks
+		Probability of selecting first blue sock = 1/4
+		Probability of selecting second blue sock = 2/11
+		Probability of selecting two blue socks = 1/4 * 2/11 = 1/22
+
+		Probability of selecting first brown sock = 5/12
+		Probability of selecting second blue sock = 4/11
+		probability of selecting two brown socks = 5/33
+
+		Probability of selecting first white sock = 4/12 = 1/3
+		Probability of selecting second white sock = 3/11
+		Similarly, the probability of selecting two white socks = 1/11
+		So, the probability of having two socks with the same color = probability of having twoblue socks + probability of having two brown socks + probability of having two whitesocks
+		= 1/22 + 5/33 + 1/11= 19/66
+
+9.A stock of pens consists of 144 ball pens in which20 pens are defective, and others are good.A girl went to the shop to purchase a pen. The shopkeeper randomly draws one pen and gives itto her. What is the probability that a girl will buy the good pen?
+Answer:	Total number of ball pens = 144
+	No. of defective pens = 20
+	No. of good pens = 124
+	The probability of buying a good pen is = 124/144 = 31/36
+
+10.If a number is selected at random from the first100 natural numbers, what will be theprobability that the selected number is a perfect cube?
+Answer:	Since, We have a set of 100 natural numbers. 
+	So the probability that the selectednumber is a perfect cube is = 4/100 = 1/25.
+
+11.What will be the number of events if 10 coinsare tossed simultaneously?
+Answer:	Total Events 2^4 = 1024
+
+12.In a throw of a dice, find the probability ofpicking a number less than 2 or a number morethan 4?
+Answer:	A: Number less than 2
+	B: Number more than 4
+	S={1,2,3,4,5,6
+	}A={1}
+	B={5,6}
+	Since A and B are mutually exclusive,
+	P(A or B)=P(AUB)=P(A)+P(B)=1/6 +2/6= 3/6 =1/2
+
+13.If P(A) = 0.6, P(B)=0.2, A and B are mutually exclusive events. The probability that event“A or B” will happen is:
+Answer:	If A and B are mutually exclusive events, then P(A ∩ B) = 0, Thus, as per the addition rule, 
+	P(AUB) = P(A) + P(B)P(AUB) 
+	= 0.6 +0.2 
+	= 0.8 =8/10
