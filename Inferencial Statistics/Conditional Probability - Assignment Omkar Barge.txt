@@ -1,0 +1,55 @@
+1. Mina has 6 different skirts, 3 different scarfs and 7 different tops to wear. She has exactly one orange scarf, exactly one blue skirt, and exactly one black top. If Mina randomly selects each item of clothing, find the probability that she will wear those clothings for the outfit.
+Answer:	There is a 1/3 probability that Mina would randomly select the orange scarf, 
+	a 1/6 probability to select the blue skirt, and 
+	a 1/7 probability to select the black top. 
+	These events are independent, that is, the selection of the scarf does not affect the selection of the tops and so on.
+	Hence, the probability that she selects the clothings of her choice is1/3*1/6*1/7 = 1/126.
+
+
+2.  A box consists of 5 yellow, 12 red and 8 blueballs. If 5 balls are drawn from this box one after the other without replacement, find the probability that the 5 balls are all yellow balls.
+Answer:	The total number of the balls in the box is 25. 
+	Let events Y: drawing black balls,
+	R: drawing red balls, 
+	B: drawing green balls. 
+	Now the balls are drawn without replacement.
+	For the first draw, there are 25 balls to choose from, for the second draw it is 25 − 1 = 24 and 23 for the third draw. 
+	Then, the probability that the three balls are all yellow = P(Y1) P(Y2 | Y1) P(Y3 | Y1 ∩ Y2) = 5/24 * 12/24 * 8/24 = 5/144
+
+
+3.In a traffic light consisting of red, yellow and green; a light appears one after the another.What is the probability of getting 2 greens?
+Answer:	Let  A = the event that the first light is green;
+	And B = the event that the second light is green.
+	We know that in the beginning, there are 3 lights—red, green and yellow. 
+	Therefore,P(A) = 1/3.
+	After the first light, there are again all the 3 possibilities for light—red, green, and yellow.
+	Therefore, the probability of second green light given the event A, i.e., P(B|A) = 1/3
+	Therefore, based on the rule of multiplication, the probability that both of the lights are green will be:
+	P(A ∩ B) = P(B|A)* P(A)
+	= (1/3)*(1/3)
+	= 1/9 
+	= 0.11
+
+4.A has invented a prototype for its new business. The probability that he will win a seed capital of ₹1,00,000 is 0.7. What’s his expected value?
+Answer:	A’s expected value of winning = Probability of winning x Reward of winning
+	= 100000*0.7
+	= ₹70,000
+
+
+5. If P(A) = 5/13, P(B) = 7/13 and P(A∩B) = 3/13,evaluate P(A|B).
+Answer:	We know that P(A|B) = P(A∩B) / P(B). 
+	(By formula for conditional probability)Which is equivalent to (3/13) / (7/13), 
+	hence the value of P(A|B) = 3/7.
+
+6. If I throw 3 standard 7-sided dice, what is the probability that the sum of their top faces equals to 21? Assume both throws are independent of each other.
+Answer:	To obtain a sum of 21 from three 7-sided dice is that 3 dice will show 7 face up.
+	Therefore, the probability is simply 1/7 * 1/7 * 1/7 = 1/273
+
+7. Suraj wants to go to Delhi. He can choose frombus services or train services to downtown Punjab. From there, he can choose from 4 bus services or 7 train services to head to Delhi. The number of ways to get to Delhi is?
+Answer:	Since Suraj can either take a bus or a train downtown and he has 4+7=11 ways to head downtown (Rule of sum).
+	 After that, he can either take a bus or a train to Delhi and hence he has another 4 * 7 = 11 ways to head to Delhi(Rule of sum). 
+	Thus, he has 11 *11 = 121 ways to head from home to Delhi(Rule of product).
+
+8. If two 14-sided dice one is red and one is blueare rolled, find the probability that a 3 on the red die, a 5 on the blue die are rolled.
+Answer:	Using the rule of product, there are 196 possible combinations of rolls. 
+	Since having the red die = 3 and the blue die = 5 are one of the 196 combinations, the required probabilityis 1/14 * 1/14 = 1/196
+
