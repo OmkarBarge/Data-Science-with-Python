@@ -1,0 +1,259 @@
+Restaurant Name,City,Locality,Cuisines,Average Cost for two,Has Table booking,Has Online delivery, Rating Stars out of 5,Rating in text,Price range,Votes
+Sultans of Spice,Bangalore,"BluPetal Hotel, Koramangala",North Indian,1300,Yes,Yes,4.1,Very Good,3,314
+The Fatty Bao - Asian Gastro Bar,Bangalore,Indiranagar,Asian,2400,Yes,Yes,4.7,Excellent,4,591
+Toit,Bangalore,Indiranagar,Italian,2000,No,No,4.8,Excellent,4,270
+Three Dots & A Dash,Bangalore,Indiranagar,European,1300,Yes,No,3.9,Good,3,365
+Bombay Brasserie,Bangalore,Indiranagar,Modern Indian,1500,No,Yes,4.2,Very Good,3,229
+Glen's Bakehouse,Bangalore,Indiranagar,Bakery,800,No,No,4,Very Good,2,336
+Onesta,Bangalore,Indiranagar,Fast Food,600,No,Yes,4.3,Very Good,2,520
+Onesta,Bangalore,JP Nagar,Fast Food,600,No,No,4.6,Excellent,2,677
+ECHOES Koramangala,Bangalore,Koramangala 5th Block,Continental,950,No,No,4.7,Excellent,2,621
+Truffles,Bangalore,Koramangala 5th Block,American,800,No,Yes,4.7,Excellent,2,532
+The Black Pearl,Bangalore,Koramangala 5th Block,North Indian,1400,Yes,No,4.1,Very Good,3,1070
+Eat Street,Bangalore,Koramangala 6th Block,North Indian,400,No,Yes,4.3,Very Good,1,488
+Koramangala Social,Bangalore,Koramangala 7th Block,Continental,1500,No,No,4.5,Excellent,3,294
+AB's - Absolute Barbecues,Bangalore,Marathahalli,European,1400,No,No,4.6,Excellent,3,458
+Flechazo,Bangalore,Marathahalli,Asian,1200,Yes,No,4.4,Very Good,3,223
+Onesta,Bangalore,New BEL Road,Fast Food,600,No,No,4.6,Excellent,2,29
+Communiti,Bangalore,Residency Road,Continental,1200,No,No,4.2,Very Good,3,72
+Big Brewsky,Bangalore,Sarjapur Road,Fast Food,1800,Yes,Yes,4.5,Excellent,3,211
+Hoot,Bangalore,Sarjapur Road,Continental,1400,No,No,3.9,Good,3,118
+Farzi Cafe,Bangalore,UB City,Modern Indian,1500,No,No,4.4,Very Good,3,392
+The Night Factory,Chandigarh,Chandigarh Industrial Area,North Indian,850,No,Yes,3.7,Good,2,535
+Brooklyn Central,Chandigarh,"Elante Mall, Chandigarh Industrial Area",American,1600,No,No,4.2,Very Good,3,618
+Chili's,Chandigarh,"Elante Mall, Chandigarh Industrial Area",Mexican,1400,No,Yes,4.3,Very Good,3,6
+Kylin Experience,Chandigarh,"Elante Mall, Chandigarh Industrial Area",Japanese,1600,No,No,4.1,Very Good,3,9
+Mocha Bar,Chandigarh,"Elante Mall, Chandigarh Industrial Area",Continental,1400,No,No,4,Very Good,3,11
+Pirates of Grill,Chandigarh,"Elante Mall, Chandigarh Industrial Area",North Indian,1200,No,No,4,Very Good,3,11
+Barbeque Nation,Chandigarh,Sector 26,North Indian,1300,No,No,4.5,Excellent,3,11
+TGI Friday's,Chandigarh,Sector 26,American,1800,No,No,4.3,Very Good,3,10
+Pal Dhaba,Chandigarh,Sector 28,North Indian,700,No,No,3.8,Good,2,8
+Midnight Chef,Chandigarh,Sector 35,North Indian,1000,No,Yes,3.4,Average,3,5
+Nik Baker's,Chandigarh,Sector 35,Bakery,650,No,No,4.1,Very Good,2,2
+OvenFresh,Chandigarh,Sector 35,Cafe,650,No,No,4.1,Very Good,2,12
+Super Donuts,Chandigarh,Sector 35,Fast Food,450,No,Yes,4,Very Good,1,9
+Taco Bell,Chandigarh,Sector 35,Mexican,600,No,Yes,4.2,Very Good,2,9
+Karim's,Chandigarh,Sector 7,Mughlai,800,No,No,3.3,Average,2,29
+Virgin Courtyard,Chandigarh,Sector 7,Italian,2200,No,No,4.4,Very Good,4,17
+Burgrill,Chandigarh,Sector 8,Fast Food,500,No,Yes,4.5,Excellent,2,5
+Uncle Jack's,Chandigarh,Sector 8,Desserts,600,No,No,4,Very Good,2,10
+That Madras Place,Chennai,Adyar,European,800,Yes,Yes,4.2,Very Good,2,6
+Haunted,Chennai,Anna Nagar East,North Indian,800,Yes,Yes,3.8,Good,2,30
+Pantry d'or,Chennai,Anna Nagar East,Continental,750,Yes,Yes,4.4,Very Good,2,8
+Palmshore,Chennai,Ashok Nagar,North Indian,850,Yes,Yes,4.2,Very Good,2,9
+Chili's,Chennai,"Express Avenue Mall,  Royapettah",Mexican,1700,Yes,Yes,4.8,Excellent,3,7
+Writer's Cafe,Chennai,Gopalapuram,Cafe,450,No,Yes,4.2,Very Good,1,29
+Fusilli Reasons,Chennai,Kilpauk,Italian,350,No,No,4.6,Excellent,1,24
+Ciclo Cafe,Chennai,Kotturpuram,Cafe,1100,No,No,4.1,Very Good,3,29
+Kaidi Kitchen,Chennai,Mylapore,Italian,1500,Yes,Yes,4,Very Good,3,11
+Bombay Brasserie,Chennai,Nungambakkam,North Indian,1200,Yes,Yes,4.6,Excellent,3,19
+Maplai,Chennai,Nungambakkam,South Indian,1000,Yes,No,4.2,Very Good,3,40
+Paradise,Chennai,Perungudi,Biryani,900,No,Yes,3.8,Good,2,21
+L'amandier,Chennai,RA Puram,European,1200,Yes,Yes,4.3,Very Good,3,49
+Palmshore,Chennai,Ramapuram,North Indian,850,Yes,Yes,4.4,Very Good,2,21
+Palmshore,Chennai,Santhome,North Indian,850,Yes,Yes,4.3,Very Good,2,14
+Basil With A Twist,Chennai,T. Nagar,Continental,1500,Yes,Yes,4.5,Excellent,3,5
+Barbeque Nation,Chennai,T. Nagar,North Indian,2000,No,No,4.4,Very Good,4,25
+AB's - Absolute Barbecues,Chennai,Velachery,North Indian,1600,No,No,4.9,Excellent,3,13
+Coal Barbecues,Chennai,Velachery,North Indian,1400,No,No,4.6,Excellent,3,7
+Pind,Chennai,Velachery,North Indian,900,Yes,No,4,Very Good,2,8
+Baba Au Rhum,Goa,Anjuna,Italian,800,No,No,4.5,Excellent,3,1
+Burger Factory,Goa,Anjuna,Fast Food,1100,No,No,4.8,Excellent,4,44
+Club Cubana,Goa,Anjuna,Fast Food,2000,No,No,4.4,Very Good,4,24
+Curlies,Goa,"Anjuna Beach, Anjuna",Continental,1500,No,No,3.5,Good,4,10
+La Plage,Goa,Arambol,Seafood,800,No,No,4.6,Excellent,3,49
+St. Anthony's,Goa,Baga,North Indian,1100,No,No,3.8,Good,4,17
+Britto's Bar & Restaurant,Goa,Baga,North Indian,1400,No,No,4.3,Very Good,4,5
+Fat Fish,Goa,Baga,North Indian,1000,No,No,4.2,Very Good,4,15
+Martin's Corner,Goa,Betalbatim,Goan,1600,No,No,4.4,Very Good,4,59
+Infantaria,Goa,Calangute,Italian,800,No,No,3.7,Good,3,30
+Souza Lobo,Goa,"Calangute Beach, Calangute",North Indian,1300,No,No,4.3,Very Good,4,5
+Fisherman's Cove,Goa,Candolim,Goan,700,No,No,3.8,Good,3,0
+Calamari,Goa,Candolim,Goan,800,No,No,4.2,Very Good,3,73
+The Fisherman's Wharf,Goa,Cavelossim,Continental,1100,No,No,4.6,Excellent,4,9
+LPK Waterfront,Goa,Nerul,Fast Food,1500,No,No,3.7,Good,4,39
+Ritz Classic,Goa,Panaji,Goan,600,No,No,4.5,Excellent,3,12
+The Black Sheep Bistro,Goa,Panaji,Seafood,1500,No,No,4.7,Excellent,4,68
+Cafe Al Fresco by Cantina Bodega,Goa,Panaji,Cafe,800,No,No,4.3,Very Good,3,46
+The Fisherman's Wharf,Goa,Panaji,Continental,1100,No,No,4.4,Very Good,4,37
+Antares,Goa,Vagator,Seafood,2000,No,No,4.2,Very Good,4,2
+Mocha Bar,Guwahati,"Anil Plaza, Christian Basti",Cafe,800,No,No,4.6,Excellent,3,2
+Terra Mayaa Restaurant and Lounge,Guwahati,"Anil Plaza, Christian Basti",North Indian,1400,No,No,3.9,Good,3,22
+The Basement Cafí©,Guwahati,Chandmari,Cafe,600,No,No,4.7,Excellent,3,58
+Strawberry Fields,Guwahati,Chandmari,Cafe,500,No,No,4.1,Very Good,2,11
+Brooklyn Blues,Guwahati,Christian Basti,Continental,1400,No,No,4.2,Very Good,2,35
+Confucius,Guwahati,Christian Basti,Chinese,750,No,No,4.1,Very Good,3,25
+The Woking Mama,Guwahati,Christian Basti,Chinese,1300,No,No,4.4,Very Good,3,34
+Underdoggs Sports Bar & Grill,Guwahati,Christian Basti,North Indian,1650,No,No,4.4,Very Good,3,45
+The Zouq : Resto-Cafe,Guwahati,Dispur,Cafe,500,No,No,4.1,Very Good,4,26
+BrewBakes,Guwahati,Six Mile,Cafe,500,No,No,4,Very Good,2,36
+Barbeque Nation,Guwahati,Ulubari,North Indian,1500,No,No,4.9,Excellent,2,67
+Yo! China,Guwahati,Ulubari,Chinese,800,No,No,3.6,Good,4,141
+4 Seasons,Guwahati,Uzan Bazaar,Chinese,300,No,No,3.6,Good,3,147
+11th Avenue Cafe Bistro,Guwahati,Uzan Bazaar,Cafe,400,No,No,4.1,Very Good,1,51
+Cafí© Riverrun,Guwahati,Uzan Bazaar,Continental,500,No,No,4.2,Very Good,2,88
+Fat Belly,Guwahati,Uzan Bazaar,Asian,500,No,No,4.1,Very Good,2,153
+The Corner Cafe,Guwahati,Uzan Bazaar,Cafe,850,No,No,4.1,Very Good,2,160
+Chung Fa,Guwahati,Zoo Tiniali,Chinese,600,No,No,4.3,Very Good,3,57
+Shanghai Salsa,Guwahati,Zoo Tiniali,Continental,1000,No,No,4,Very Good,2,58
+Three Guys,Guwahati,Zoo Tiniali,Continental,700,No,No,4.3,Very Good,3,115
+Ziya,Guwahati,Zoo Tiniali,Continental,700,No,No,4.3,Very Good,2,51
+Exotica,Hyderabad,"12th Square Building, Banjara Hills",Mughlai,1500,Yes,Yes,4.3,Very Good,3,250
+AB's - Absolute Barbecues,Hyderabad,Banjara Hills,European,1500,No,No,4.9,Excellent,3,117
+Chili's,Hyderabad,Banjara Hills,Mexican,1800,Yes,Yes,4.7,Excellent,3,20
+The Fisherman's Wharf,Hyderabad,Gachibowli,Seafood,1500,Yes,No,3.8,Good,3,25
+Chili's,Hyderabad,Hitech City,Mexican,1800,No,Yes,4.6,Excellent,3,1821
+Pine & Dine,Hyderabad,Hitech City,North Indian,700,Yes,Yes,4,Very Good,2,849
+Jonathan's Kitchen - Holiday Inn Express & Suites,Hyderabad,Holiday Inn Express & Suites,North Indian,1900,Yes,No,4.3,Very Good,3,917
+AB's - Absolute Barbecues,Hyderabad,Jubilee Hills,European,1500,No,No,4.9,Excellent,3,439
+Coní_u,Hyderabad,Jubilee Hills,Bakery,600,No,No,4.8,Excellent,2,289
+Dock Forty Five,Hyderabad,Jubilee Hills,Continental,1400,No,No,4.2,Very Good,3,558
+Mocha Bar Bar,Hyderabad,Jubilee Hills,North Indian,1200,Yes,No,4.2,Very Good,3,613
+Olive Bistro,Hyderabad,Jubilee Hills,Mediterranean,2000,Yes,Yes,4.4,Very Good,4,353
+Prost Brew Pub,Hyderabad,Jubilee Hills,Italian,1200,Yes,No,4.1,Very Good,3,387
+United Kitchens of India,Hyderabad,Jubilee Hills,North Indian,1100,Yes,No,4.1,Very Good,3,755
+Heart Cup Coffee,Hyderabad,Kondapur,Cafe,1800,No,Yes,4.2,Very Good,3,800
+Churrolto,Hyderabad,Madhapur,Desserts,500,No,No,4.7,Excellent,2,350
+The Grand Trunk Road,Hyderabad,Madhapur,North Indian,1100,No,Yes,3.9,Good,3,464
+Sahibaos Barbeque by Ohriaos,Hyderabad,Ohri' Hitech City,Hyderabadi,1400,Yes,No,4.1,Very Good,3,550
+Tapri Central,Jaipur,C Scheme,Cafe,750,No,Yes,4.7,Excellent,2,543
+Blackout,Jaipur,C Scheme,North Indian,1650,No,No,3.9,Good,3,465
+Mamu's Infusion,Jaipur,C Scheme,Italian,1400,No,Yes,4,Very Good,3,546
+Nibs Cafe,Jaipur,C Scheme,Cafe,750,No,Yes,4.4,Very Good,2,1098
+On The House,Jaipur,C Scheme,Italian,1300,No,Yes,4.4,Very Good,3,579
+WTF,Jaipur,C Scheme,Continental,1000,No,No,4,Very Good,3,374
+Chokhi Dhani,Jaipur,"Chokhi Dhani Village Resort, Tonk Road",Rajasthani,1600,No,No,4.3,Very Good,3,717
+Meraaki Kitchen,Jaipur,Civil Lines,Modern Indian,1500,No,No,3.9,Good,3,548
+Taruveda Bistro,Jaipur,Civil Lines,Cafe,1000,No,Yes,4.2,Very Good,3,631
+The Forresta Kitchen & Bar,Jaipur,"Devraj Niwas, Bani Park",Continental,1800,No,No,4,Very Good,3,372
+Monarch Restaurant - Holiday Inn Jaipur City Centre,Jaipur,"Holiday Inn Jaipur City Centre, Bais Godam",North Indian,2300,No,No,4.5,Excellent,4,201
+Chao Chinese Bistro - Holiday Inn Jaipur City Centre,Jaipur,"Holiday Inn Jaipur City Centre, Bais Godam",Chinese,2500,No,No,4.3,Very Good,4,332
+Zolocrust - Hotel Clarks Amer,Jaipur,"Hotel Clarks Amer, Malviya Nagar",Italian,2000,No,Yes,4.9,Excellent,4,304
+Mutual's,Jaipur,Lal Kothi,Cafe,650,No,Yes,4.2,Very Good,2,368
+O2- The Plant Cafe,Jaipur,Lal Kothi,Continental,700,No,No,4.1,Very Good,2,430
+Cafe LazyMojo,Jaipur,Malviya Nagar,Cafe,800,No,Yes,4.3,Very Good,2,433
+Replay,Jaipur,Tonk Road,North Indian,1500,No,No,4.3,Very Good,3,380
+Sky Beach,Jaipur,Vaishali Nagar,North Indian,1000,No,No,2.6,Average,3,456
+Decked Up By Garden Cafe,Jaipur,Vaishali Nagar,Cafe,1200,No,Yes,3.9,Good,3,647
+Calzone- Dine & Rooftop Lounge,Jaipur,Vidhyadhar Nagar,Continental,800,No,Yes,3.7,Good,2,360
+Asia Kitchen by Mainland China,Kolkata,"Acropolis Mall, Kasba ",Asian,1400,No,Yes,4.6,Excellent,3,227
+Hoppipola,Kolkata,"Acropolis Mall, Kasba ",Italian,1200,No,Yes,4.2,Very Good,3,290
+Spice Kraft,Kolkata,Ballygunge,Continental,1200,No,No,4.8,Excellent,3,270
+Nawwarah,Kolkata,Ballygunge,Chinese,1000,No,No,3.9,Good,3,326
+6 Ballygunge Place,Kolkata,Ballygunge,Bengali,1000,Yes,Yes,4.4,Very Good,3,317
+Mumbai Local,Kolkata,Ballygunge,North Indian,1200,Yes,No,4.2,Very Good,3,300
+Gabbar's Bar & Kitchen,Kolkata,Camac Street Area,North Indian,1400,Yes,No,4.4,Very Good,3,21
+TGI Friday's,Kolkata,Elgin,American,1800,Yes,Yes,4,Very Good,3,237
+Santa's Fantasea,Kolkata,Golpark,Seafood,800,No,No,4.2,Very Good,2,879
+India Restaurant,Kolkata,Kidderpore,Biryani,800,Yes,Yes,4.6,Excellent,2,615
+Flame & Grill,Kolkata,"Mani Square Mall, Kankurgachi",North Indian,1500,Yes,No,3.9,Good,3,879
+Barbeque Nation,Kolkata,Park Street Area,North Indian,1600,No,No,4.9,Excellent,3,379
+Mocambo,Kolkata,Park Street Area,Continental,1050,No,Yes,3.5,Good,3,303
+BarBQ,Kolkata,Park Street Area,Chinese,900,No,Yes,4.2,Very Good,2,538
+Peter Cat,Kolkata,Park Street Area,Continental,1000,No,Yes,4.3,Very Good,3,334
+The Irish House,Kolkata,"Quest Mall, Ballygunge",European,1900,No,No,4.4,Very Good,3,555
+Barbeque Nation,Kolkata,"Sector 5, Salt Lake",North Indian,1600,No,No,4.9,Excellent,3,823
+Ocean Grill,Kolkata,"Sector 5, Salt Lake",Continental,1500,Yes,No,3.6,Good,3,550
+Sigree Global Grill,Kolkata,"Silver Spring Arcade, Science City Area",North Indian,1600,Yes,No,4.1,Very Good,3,650
+What's Up,Kolkata,Southern Avenue,Cafe,1000,Yes,No,4,Very Good,3,410
+Grandson of Tunday Kababi,Lucknow,Aminabad,Mughlai,300,No,No,4.9,Excellent,1,660
+Frozen Factory,Lucknow,Gomti Nagar,Desserts,200,No,No,4.5,Excellent,1,360
+Mocha Bar,Lucknow,Gomti Nagar,Cafe,800,No,No,4.6,Excellent,3,340
+Chemistry Cafí©,Lucknow,Gomti Nagar,Cafe,650,No,No,3.5,Good,2,393
+Homeys Cafe,Lucknow,Gomti Nagar,Cafe,450,No,No,3.9,Good,2,422
+Percussion,Lucknow,Gomti Nagar,Continental,1000,No,No,3.7,Good,3,435
+The Urban Terrace,Lucknow,Gomti Nagar,North Indian,1100,No,No,3.9,Good,3,369
+Free Spirit,Lucknow,Gomti Nagar,Cafe,450,No,No,4.3,Very Good,2,487
+Spice Caves,Lucknow,Gomti Nagar,North Indian,1200,No,No,4.2,Very Good,3,98
+The Chocolate Heaven,Lucknow,Gomti Nagar,Cafe,400,No,No,4.1,Very Good,2,365
+The Pebbles Bistro,Lucknow,Gomti Nagar,European,1000,No,No,4.1,Very Good,3,190
+Underdoggs Sports Bar & Grill,Lucknow,Gomti Nagar,Mediterranean,1300,No,No,4.3,Very Good,3,429
+Vintage Machine,Lucknow,Gomti Nagar,Italian,1000,No,No,4.3,Very Good,3,430
+Bar Bar,Lucknow,Hazratganj,Cafe,1000,No,No,4,Very Good,3,186
+Dastarkhwan,Lucknow,Hazratganj,Mughlai,400,No,No,4.4,Very Good,2,220
+The Cherry Tree Cafe,Lucknow,Hazratganj,Cafe,400,No,No,4.1,Very Good,2,347
+Royal Sky,Lucknow,Lalbagh,North Indian,1100,No,No,4.2,Very Good,3,161
+L 14 - Renaissance Lucknow Hotel,Lucknow,Renaissance Lucknow Hotel,North Indian,2000,No,No,4.2,Very Good,4,160
+Barbeque Nation,Lucknow,"Riverside Mall, Gomti Nagar",North Indian,1600,No,No,4.7,Excellent,4,820
+Colours by Royal Cafe - Royal Inn,Lucknow,"Royal Inn, Hazratganj",North Indian,1000,No,No,4.2,Very Good,3,488
+Cappuccino Blast,Lucknow,Sadar Bazaar,Cafe,700,No,No,4,Very Good,2,253
+Joey's Pizza,Mumbai,Azad Nagar,Fast Food,800,No,No,4,Very Good,2,220
+Cafe Hydro,Mumbai,Borivali East,Asian,1000,No,No,4,Very Good,3,485
+The American Joint,Mumbai,Borivali West,Healthy Food,850,Yes,No,3.4,Average,2,428
+The Fusion Kitchen,Mumbai,Borivali West,North Indian,1000,Yes,Yes,4.7,Excellent,3,294
+145 Kala Ghoda,Mumbai,Fort,Fast Food,1500,No,No,4.2,Very Good,3,380
+Tea Villa Cafe,Mumbai,"Hill Road, Bandra West",Cafe,1000,Yes,Yes,4.1,Very Good,3,259
+Grandmama's Cafe,Mumbai,Juhu,Continental,1100,No,No,3.8,Good,3,433
+Mumbai Vibe,Mumbai,"Linking Road, Bandra West",Cafe,1000,Yes,No,3.8,Good,3,176
+The Rolling Pin,Mumbai,Lower Parel,Bakery,700,No,Yes,3.9,Good,2,96
+Farzi Cafe,Mumbai,Lower Parel,Modern Indian,1500,No,No,4.3,Very Good,3,6
+SpiceKlub,Mumbai,Lower Parel,North Indian,1500,No,Yes,4.2,Very Good,3,33
+Tea Villa Cafe,Mumbai,"Majiwada, Thane West",Cafe,1000,Yes,No,3.9,Good,3,489
+Joey's Pizza,Mumbai,Malad West,Fast Food,800,No,Yes,4.5,Excellent,2,345
+Stacks And Racks,Mumbai,Malad West,American,500,No,No,4.6,Excellent,2,149
+The English Department Bar & Diner,Mumbai,Malad West,Italian,1500,Yes,No,3.9,Good,3,330
+Mirchi And Mime,Mumbai,Powai,North Indian,1500,No,No,4.9,Excellent,3,247
+38 Degree East,Mumbai,Powai,North Indian,1000,Yes,No,3.8,Good,3,123
+R' ADDA,Mumbai,"Ramee Guestline Hotel, Juhu",Street Food,1200,No,No,4,Very Good,3,109
+Tea Villa Cafe,Mumbai,"Versova, Andheri West",Cafe,1000,Yes,Yes,4.1,Very Good,3,134
+Tea Villa Cafe,Mumbai,Vile Parle East,Cafe,1000,Yes,Yes,3.6,Good,3,722
+Genuine Broaster Chicken,Patna,Anandpuri,American,500,No,No,3.5,Good,2,213
+Bansi Vihar,Patna,Fraser Road Area,South Indian,300,No,No,3.4,Average,1,335
+Mainland China,Patna,Fraser Road Area,Chinese,1400,No,No,3.5,Good,3,353
+Pukhtaan-The Royal Taste of India,Patna,Fraser Road Area,North Indian,1500,No,No,3.5,Good,4,170
+The Yellow Chilli,Patna,Fraser Road Area,North Indian,1000,No,No,3.5,Good,3,192
+Indian Summer Cafe,Patna,Golambar,Continental,600,No,No,3.4,Average,2,302
+KFC,Patna,Golambar,Fast Food,500,No,No,3.3,Average,2,355
+McDonald's,Patna,Golambar,Fast Food,500,No,No,3.4,Average,2,287
+Biryani Mahal,Patna,Golambar,Biryani,500,No,No,3.6,Good,2,264
+Spice Court - Hotel Maurya,Patna,"Hotel Maurya, Lodipur",North Indian,1600,No,No,3.7,Good,4,235
+Angeethi,Patna,Khajpura,North Indian,800,No,No,3.4,Average,3,6
+Red Chilli,Patna,Khajpura,Chinese,450,No,No,3.6,Good,2,38
+Pind Balluchi,Patna,Lodipur,North Indian,1000,No,No,3.3,Average,3,122
+Raj Rasoi,Patna,Lodipur,North Indian,600,No,No,3.3,Average,2,207
+Kapil Dev's Eleven,Patna,Lodipur,North Indian,1000,No,No,3.6,Good,3,66
+Sri Basant Vihar,Patna,"Maurya Lok, Fraser Road Area",North Indian,600,No,No,3.6,Good,2,249
+17 Degrees,Patna,Patliputra Colony,North Indian,1200,No,No,3.5,Good,3,63
+Nirvana,Patna,Sri Krishnapuri,North Indian,700,No,No,3.4,Average,2,145
+Roti Restaurant,Patna,Sri Krishnapuri,North Indian,500,No,No,3.1,Average,2,83
+Swaaddesh,Patna,Sri Krishnapuri,North Indian,700,No,No,3.5,Good,2,116
+The Urban Foundry,Pune,"Balewadi High Street, Balewadi",North Indian,1500,Yes,No,4.5,Excellent,3,122
+Teddy Boy,Pune,Baner,North Indian,1200,Yes,No,3.6,Good,3,142
+Effingut Brewerkz,Pune,Baner,Continental,2000,No,Yes,4.3,Very Good,4,114
+Le Plaisir,Pune,Deccan Gymkhana,European,1000,No,No,4.8,Excellent,3,214
+Farzi Cafe,Pune,Kalyani Nagar,Modern Indian,1500,No,No,4.3,Very Good,3,116
+Mineority By Saby,Pune,Kalyani Nagar,North Indian,1400,Yes,No,4.2,Very Good,3,111
+The Little Next Door,Pune,Kalyani Nagar,Fast Food,1000,Yes,No,4.1,Very Good,3,25
+Effingut Brewerkz,Pune,Koregaon Park,Continental,1800,No,Yes,4.3,Very Good,3,128
+Kargo,Pune,Koregaon Park,Charcoal Grill,900,Yes,No,4.4,Very Good,2,244
+Sauticed Stories,Pune,Koregaon Park,Cafe,850,No,Yes,4.2,Very Good,2,112
+The Sassy Spoon,Pune,Koregaon Park,European,1500,Yes,No,4.1,Very Good,3,144
+German Bakery Wunderbar,Pune,Law College Road,Italian,1000,No,No,4,Very Good,3,166
+Chili's,Pune,"Phoenix Market City, Viman Nagar",Mexican,1800,Yes,Yes,4.5,Excellent,3,208
+Barbeque Nation,Pune,"R Deccan Mall, JM Road",North Indian,1700,No,No,4.5,Excellent,3,136
+Blue Water,Pune,Ravet,North Indian,1500,Yes,Yes,4.2,Very Good,3,85
+Agent Jack's Bar,Pune,Senapati Bapat Road,Continental,1200,Yes,No,4.2,Very Good,3,117
+Tales & Spirits,Pune,Senapati Bapat Road,Italian,800,Yes,Yes,4.1,Very Good,2,53
+18 Degrees Resto Lounge,Pune,"Spot 18 Mall, Pimple Saudagar",North Indian,2100,Yes,Yes,3.6,Good,4,474
+Apache,Pune,Viman Nagar,Fast Food,1000,Yes,No,4.1,Very Good,3,125
+Barbeque Ville,Pune,Wakad,North Indian,1000,Yes,No,4.4,Very Good,3,201
+Level 5 - Terrace Restro & Cafe,Surat,Adajan Gam,Chinese,900,No,No,3.8,Good,3,2
+Wok On Fire,Surat,Adajan Gam,Chinese,800,No,No,3.9,Good,3,3
+Thalaivaa,Surat,Adajan Gam,South Indian,500,No,No,4.1,Very Good,2,167
+World Platter,Surat,Athwa,North Indian,800,No,No,3.9,Good,3,112
+Golden Dragon,Surat,Athwa,Chinese,800,No,No,4.2,Very Good,3,256
+Mysore Cafe,Surat,Athwa,South Indian,250,No,No,4,Very Good,1,123
+Coffee Culture - The Ristorante Lounge,Surat,City Light,Cafe,650,No,No,4,Very Good,2,199
+Falafel Lovers,Surat,City Light,Lebanese,650,No,No,4.3,Very Good,2,157
+The Centre Court,Surat,City Light,Italian,900,No,No,4.1,Very Good,3,100
+Wok On Fire,Surat,"Golden Square, City Light",Chinese,800,No,No,3.7,Good,3,141
+Leonardo Italian Mediterranean Dining,Surat,"International Business Center, Piplod",Italian,1400,No,No,4.2,Very Good,3,197
+Kansar Gujarati Thali,Surat,Nanpura,Gujarati,550,No,No,3.9,Good,2,1025
+The Haus,Surat,Piplod,Cafe,500,No,No,3.9,Good,2,570
+Black Pepper,Surat,Piplod,North Indian,1000,No,No,4.1,Very Good,3,674
+Pizza Hut,Surat,Piplod,Fast Food,800,No,No,4.1,Very Good,3,496
+The Sizzling Salsa,Surat,Piplod,Italian,1500,No,No,4.1,Very Good,4,411
+Global Local,Surat,Vesu,Modern Indian,1500,No,No,3.4,Average,4,113
+The Creamery,Surat,Vesu,Desserts,250,No,No,3.6,Good,1,1109
+The Food Lab,Surat,Vesu,Italian,900,No,No,3.6,Good,3,728
+The Hog Spot,Surat,Vesu,North Indian,800,No,No,3.8,Good,3,659
