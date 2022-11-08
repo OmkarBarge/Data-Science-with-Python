@@ -1,2 +1,2 @@
-# Data-Science-with-Python-Testbook-
-This Repo contain Assignment and Project of Testbook Skill Academy
+# Data-Science-with-Python.
+This Repo contain Assignment and Project.
